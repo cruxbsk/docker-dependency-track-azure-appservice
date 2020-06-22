@@ -1,4 +1,4 @@
-ARG DEPENDENCY_TRACK_VERSION=3.7.1
+ARG DEPENDENCY_TRACK_VERSION=3.8.0
 FROM owasp/dependency-track:$DEPENDENCY_TRACK_VERSION
 LABEL maintainer="coderpatros@outlook.com"
 
