@@ -1,6 +1,6 @@
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/coderpatros/dependency-track-azure-appservice)
 ![Docker Pulls](https://img.shields.io/docker/pulls/coderpatros/dependency-track-azure-appservice.svg)
-![GitHub](https://img.shields.io/github/license/patros/dependency-track-azure-appservice)
+![GitHub](https://img.shields.io/github/license/coderpatros/dependency-track-azure-appservice)
 
 # Dependency-Track Docker Container for Azure App Service
 
